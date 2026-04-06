@@ -30,11 +30,11 @@
 ### 📊 My GitHub Stats:
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Musa's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=googIeuser&show_icons=true&theme=tokyonight" alt="Musa's GitHub Stats" />
 </p>
 
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Musa's Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=googIeuser&theme=tokyonight" alt="Musa's Streak Stats" />
 </p>
 
 ---
