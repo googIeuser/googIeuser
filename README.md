@@ -43,7 +43,7 @@
 
 ---
 
-### 📱 My Mobile: Xiaomi 15 🐉
+### 📱 My Mobile: Xiaomi 17 🐉
 
 * **System Architecture:** Exploring the boundaries of Android through **Rooting** and **Custom ROMs**.
 * **Module Engineering:** Crafting a personalized UX using **LSPosed** and advanced system hooks.
