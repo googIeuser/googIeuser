@@ -66,5 +66,3 @@
 - 💬 Ask me about: **Bootloader unlocking, Kernel tweaks, or Android customization.**
 
 ---
-
-"Root access is not a privilege, it's a lifestyle."
