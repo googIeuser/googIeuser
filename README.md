@@ -42,15 +42,6 @@
 
 ---
 
-### 📱 My Mobile: Xiaomi 17 🐉
-
-* **System Architecture:** Exploring the boundaries of Android through **Rooting** and **Custom ROMs**.
-* **Module Engineering:** Crafting a personalized UX using **LSPosed** and advanced system hooks.
-* **Performance Tuning:** Obsessed with kernel-level optimizations and debloating HyperOS to its core.
-* **Security Research:** Understanding the Android security model from the inside out (by breaking it first).
-
----
-
 ### 📊 My GitHub Stats:
 
 <p align="left">
