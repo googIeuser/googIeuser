@@ -58,10 +58,3 @@
 </p>
 
 ---
-
-### 🔭 Current Focus
-- 🔭 Porting and testing cutting-edge ROMs for the Xiaomi 17.
-- 🌱 Deep diving into Android system internals and Magisk modules.
-- 💬 Ask me about: **Bootloader unlocking, Kernel tweaks, or Android customization.**
-
----
