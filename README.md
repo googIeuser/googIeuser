@@ -4,9 +4,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Musa
-
-### Software Developer · Open Source Enthusiast · Tech Explorer
 
 <p>
 I enjoy building useful projects, learning new technologies  
