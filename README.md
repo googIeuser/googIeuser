@@ -67,12 +67,19 @@ class Musa:
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img
+    width="48%"
+    src="https://musa-github-stats.vercel.app/api?username=googIeuser&show_icons=true&theme=radical&hide_border=true"
+    alt="Musa's GitHub stats"
+  />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=googIeuser&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=googIeuser&layout=compact&theme=radical&hide_border=true&border_radius=12" />
-
+  <img
+    width="40%"
+    src="https://musa-github-stats.vercel.app/api/top-langs/?username=googIeuser&layout=compact&theme=radical&hide_border=true"
+    alt="Most used languages"
+  />
 </div>
+
 
 ---
 
