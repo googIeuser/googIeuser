@@ -1,112 +1,114 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,35:7B2FFF,70:FF3CAC,100:FF8A00&height=230&section=header&text=Musa&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=57&descSize=19" alt="Musa profile header" />
+<img width="100%" src="./assets/banner.svg" alt="Musa — Software Developer" />
+
+<br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9D6CFF&center=true&vCenter=true&width=760&lines=Building+useful+software;Exploring+backend%2C+automation+and+DevOps;Learning%2C+shipping+and+improving+every+day" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=A970FF&center=true&vCenter=true&width=850&lines=Building+useful+software.;Backend+%E2%80%A2+Automation+%E2%80%A2+AI+%E2%80%A2+DevOps.;Code.+Learn.+Build.+Repeat." alt="Typing introduction" />
 </a>
 
 <br />
 
 <a href="https://github.com/googIeuser?tab=followers">
-  <img src="https://img.shields.io/github/followers/googIeuser?style=for-the-badge&logo=github&label=Followers&labelColor=17153B&color=7B2FFF" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/googIeuser?style=for-the-badge&logo=github&label=Followers&labelColor=111827&color=7C3AED" alt="GitHub followers" />
 </a>
 <a href="https://github.com/googIeuser?tab=repositories">
-  <img src="https://img.shields.io/github/stars/googIeuser?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&labelColor=17153B&color=FF3CAC" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/googIeuser?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&labelColor=111827&color=F43F5E" alt="GitHub stars" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🖥️ Developer Terminal
 
-```python
-class Musa:
-    location = "Türkiye"
-
-    interests = [
-        "Software Development",
-        "Backend Engineering",
-        "Automation",
-        "Artificial Intelligence",
-        "Open Source",
-        "DevOps",
-    ]
-
-    currently_learning = [
-        "System Design",
-        "Docker",
-        "Cloud Technologies",
-    ]
-
-    goal = "Build useful, clean and reliable software"
-```
+<img width="100%" src="./assets/terminal.svg" alt="Musa developer terminal" />
 
 ---
 
-## 🚀 Tech Stack
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">💻 Languages</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,js,c,cpp,cs,bash,md&theme=dark&perline=4" alt="Programming languages" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌐 Frameworks</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,django,tailwind&theme=dark&perline=2" alt="Frameworks and libraries" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🛠️ Tools</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,ubuntu,fedora&theme=dark&perline=4" alt="Developer tools" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+## 🚀 Technology Matrix
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-musa24.vercel.app/api?username=googIeuser&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=0D1117&title_color=00D4FF&icon_color=FF3CAC&text_color=FFFFFF&ring_color=7B2FFF" alt="Musa's GitHub statistics" />
-<img height="180" src="https://github-readme-stats-musa24.vercel.app/api/top-langs/?username=googIeuser&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=0D1117&title_color=FF3CAC&text_color=FFFFFF" alt="Musa's most used languages" />
+### Languages
 
-<br />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,cs,java,bash,html,css,md&theme=dark&perline=11" alt="Languages" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=googIeuser&bg_color=0D1117&color=9D6CFF&line=00D4FF&point=FF3CAC&area=true&area_color=7B2FFF&hide_border=true&radius=16" alt="Musa's contribution activity graph" />
+### Frameworks & Runtime
 
-<br />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind&theme=dark&perline=6" alt="Frameworks" />
 
-<img src="https://streak-stats.demolab.com?user=googIeuser&hide_border=true&border_radius=16&background=0D1117&ring=7B2FFF&fire=FF8A00&currStreakLabel=00D4FF&sideLabels=FF3CAC&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Musa's GitHub streak" />
+### Infrastructure & Data
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,nginx,cloudflare,postgres,sqlite,redis&theme=dark&perline=10" alt="Infrastructure and databases" />
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,postman&theme=dark&perline=5" alt="Developer tools" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Command Center
 
-<table>
-  <tr>
-    <td>🐍 Improving Python skills</td>
-    <td>🌐 Building web applications</td>
-  </tr>
-  <tr>
-    <td>⚙️ Learning backend architecture</td>
-    <td>🐳 Exploring Docker and DevOps</td>
-  </tr>
-  <tr>
-    <td>🤖 Experimenting with AI and automation</td>
-    <td>🌍 Contributing to open source</td>
-  </tr>
-</table>
+<div align="center">
+
+<img height="185" src="https://github-readme-stats-musa24.vercel.app/api?username=googIeuser&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&bg_color=12,0D1117,17132C&title_color=67E8F9&icon_color=F472B6&text_color=F8FAFC&ring_color=A78BFA" alt="GitHub statistics" />
+
+<img height="185" src="https://github-readme-stats-musa24.vercel.app/api/top-langs/?username=googIeuser&layout=compact&langs_count=8&hide_border=true&border_radius=18&bg_color=12,0D1117,17132C&title_color=F472B6&text_color=F8FAFC" alt="Most used languages" />
+
+<br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=googIeuser&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FB7185&area=true&area_color=7C3AED&hide_border=true&radius=18" alt="Contribution activity graph" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=googIeuser&hide_border=true&border_radius=18&background=0D1117&ring=A78BFA&fire=FB7185&currStreakLabel=22D3EE&sideLabels=F472B6&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
+
+</div>
+
+---
+
+## ⚡ Latest Projects
+
+<!-- PROJECTS:START -->
+<a href="https://github.com/googIeuser/NetWatcher">
+  <img width="49%" src="https://github-readme-stats-musa24.vercel.app/api/pin/?username=googIeuser&repo=NetWatcher&hide_border=true&border_radius=16&bg_color=0D1117&title_color=22D3EE&icon_color=F472B6&text_color=CBD5E1" alt="NetWatcher" />
+</a>
+<a href="https://github.com/googIeuser/FrameworkPatcher">
+  <img width="49%" src="https://github-readme-stats-musa24.vercel.app/api/pin/?username=googIeuser&repo=FrameworkPatcher&hide_border=true&border_radius=16&bg_color=0D1117&title_color=A78BFA&icon_color=FB7185&text_color=CBD5E1" alt="FrameworkPatcher" />
+</a>
+<!-- PROJECTS:END -->
+
+<p align="center">
+  <sub>This section is refreshed automatically by GitHub Actions using the GitHub API.</sub>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=googIeuser&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -115,13 +117,11 @@ class Musa:
 ## 🤝 Connect
 
 <a href="https://github.com/googIeuser">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
 <br /><br />
 
-### ✨ Code. Learn. Build. Repeat.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,35:FF3CAC,70:7B2FFF,100:00D4FF&height=125&section=footer" alt="Colorful footer" />
+<img width="100%" src="./assets/footer.svg" alt="Profile footer" />
 
 </div>
