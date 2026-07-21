@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00D4FF,25:6A5CFF,50:C44DFF,75:FF3CAC,100:FF8A00&text=Musa&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descSize=19" alt="Musa profile banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=A970FF&center=true&vCenter=true&width=850&lines=Building+useful+software.;Backend+%E2%80%A2+Automation+%E2%80%A2+AI+%E2%80%A2+DevOps.;Code.+Learn.+Build.+Repeat." alt="Typing introduction" />
-</a>
+<img width="100%" src="./assets/liquid-banner.svg" alt="Musa — Software Developer" />
 
 <br />
 
@@ -12,29 +8,20 @@
   <img src="https://img.shields.io/github/followers/googIeuser?style=for-the-badge&logo=github&label=Followers&labelColor=111827&color=7C3AED" alt="GitHub followers" />
 </a>
 <a href="https://github.com/googIeuser?tab=repositories">
-  <img src="https://img.shields.io/github/stars/googIeuser?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&labelColor=111827&color=F43F5E" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/googIeuser?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&labelColor=111827&color=0891B2" alt="GitHub stars" />
 </a>
 
 </div>
 
----
+<br />
 
-## 🖥️ Developer Terminal
+<div align="center">
+  <img width="96%" src="./assets/liquid-terminal.svg" alt="Musa developer terminal" />
+</div>
 
-```bash
-musa@github:~$ whoami
-Musa — Software Developer from Türkiye
+<br />
 
-musa@github:~$ cat interests.txt
-Backend • Automation • Artificial Intelligence • DevOps • Open Source
-
-musa@github:~$ echo $MOTTO
-Code. Learn. Build. Repeat.
-```
-
----
-
-## 🚀 Technology Matrix
+## ◈ Technology Matrix
 
 <div align="center">
 
@@ -44,7 +31,7 @@ Code. Learn. Build. Repeat.
 
 ### Frameworks & Runtime
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind&theme=dark&perline=6" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind&theme=dark&perline=6" alt="Frameworks and runtimes" />
 
 ### Infrastructure & Data
 
@@ -56,9 +43,9 @@ Code. Learn. Build. Repeat.
 
 </div>
 
----
+<br />
 
-## 📊 GitHub Command Center
+## ◈ GitHub Command Center
 
 <div align="center">
 
@@ -66,31 +53,31 @@ Code. Learn. Build. Repeat.
 
 <img height="185" src="https://github-readme-stats-musa24.vercel.app/api/top-langs/?username=googIeuser&layout=compact&langs_count=8&hide_border=true&border_radius=18&bg_color=0D1117&title_color=F472B6&text_color=F8FAFC" alt="Most used languages" />
 
-<br />
+<br /><br />
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=googIeuser&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FB7185&area=true&area_color=7C3AED&hide_border=true&radius=18" alt="Contribution activity graph" />
 
-<br />
+<br /><br />
 
 <img src="https://streak-stats.demolab.com?user=googIeuser&hide_border=true&border_radius=18&background=0D1117&ring=A78BFA&fire=FB7185&currStreakLabel=22D3EE&sideLabels=F472B6&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
 
 </div>
 
----
+<br />
 
-## ⚡ Featured Projects
+## ◈ Featured Project
 
 <div align="center">
 
 <a href="https://github.com/googIeuser/NetWatcher">
-  <img width="70%" src="https://github-readme-stats-musa24.vercel.app/api/pin/?username=googIeuser&repo=NetWatcher&hide_border=true&border_radius=16&bg_color=0D1117&title_color=22D3EE&icon_color=F472B6&text_color=CBD5E1" alt="NetWatcher" />
+  <img width="96%" src="./assets/liquid-netwatcher.svg" alt="NetWatcher featured project" />
 </a>
 
 </div>
 
----
+<br />
 
-## 🏆 Achievements
+## ◈ Achievements
 
 <div align="center">
 
@@ -98,11 +85,9 @@ Code. Learn. Build. Repeat.
 
 </div>
 
----
+<br />
 
 <div align="center">
-
-## 🤝 Connect
 
 <a href="https://github.com/googIeuser">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
@@ -110,6 +95,6 @@ Code. Learn. Build. Repeat.
 
 <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF8A00,30:FF3CAC,70:7B2FFF,100:00D4FF" alt="Footer" />
+<img width="100%" src="./assets/liquid-footer.svg" alt="Liquid glass footer" />
 
 </div>
