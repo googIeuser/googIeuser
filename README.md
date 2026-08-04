@@ -21,23 +21,23 @@
 
 <br />
 
-## ◈ Technology Matrix
+◈ Technology Matrix
 
 <div align="center">
 
-### Languages
+Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,cs,java,bash,html,css,md&theme=dark&perline=11" alt="Languages" />
 
-### Frameworks & Runtime
+Frameworks & Runtime
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind&theme=dark&perline=6" alt="Frameworks and runtimes" />
 
-### Infrastructure & Data
+Infrastructure & Data
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,nginx,cloudflare,postgres,sqlite,redis&theme=dark&perline=10" alt="Infrastructure and databases" />
 
-### Developer Tools
+Developer Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,postman&theme=dark&perline=5" alt="Developer tools" />
 
@@ -45,7 +45,7 @@
 
 <br />
 
-## ◈ GitHub Command Center
+◈ GitHub Command Center
 
 <div align="center">
 
@@ -65,23 +65,13 @@
 
 <br />
 
-## ◈ Featured Project
+◈ Featured Project
 
 <div align="center">
 
 <a href="https://github.com/googIeuser/NetWatcher">
   <img width="96%" src="./assets/liquid-netwatcher.svg" alt="NetWatcher featured project" />
 </a>
-
-</div>
-
-<br />
-
-## ◈ Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=googIeuser&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub trophies" />
 
 </div>
 
