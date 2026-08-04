@@ -21,11 +21,11 @@
 
 <br />
 
-◈ What I Build
+## ◈ What I Build
 
 <div align="center">
 
-Local-first diagnostics · Performance telemetry · Android tooling · Open-source desktop apps
+**Local-first diagnostics · Performance telemetry · Android tooling · Open-source desktop apps**
 
 <sub>
 I build practical tools that expose useful system data through clean interfaces,
@@ -36,23 +36,23 @@ native components and transparent telemetry.
 
 <br />
 
-◈ Technology Matrix
+## ◈ Technology Matrix
 
 <div align="center">
 
-Primary Languages
+### Primary Languages
 
 <img src="https://skillicons.dev/icons?i=rust,dart,kotlin,python,bash,c,cpp,java&theme=dark&perline=8" alt="Primary languages" />
 
-Application & Native Development
+### Application & Native Development
 
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,cmake&theme=dark&perline=3" alt="Application and native development" />
 
-Platforms & Delivery
+### Platforms & Delivery
 
 <img src="https://skillicons.dev/icons?i=windows,linux,docker,git,github,githubactions&theme=dark&perline=6" alt="Platforms and delivery tools" />
 
-Data & Developer Tools
+### Data & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=sqlite,postgres,vscode,visualstudio,idea&theme=dark&perline=5" alt="Data and developer tools" />
 
@@ -60,7 +60,7 @@ Data & Developer Tools
 
 <br />
 
-◈ Featured Projects
+## ◈ Featured Projects
 
 <table>
 <tr>
@@ -91,7 +91,7 @@ Data & Developer Tools
 
 <br />
 
-◈ GitHub Command Center
+## ◈ GitHub Command Center
 
 <div align="center">
 
