@@ -21,27 +21,73 @@
 
 <br />
 
+◈ What I Build
+
+<div align="center">
+
+Local-first diagnostics · Performance telemetry · Android tooling · Open-source desktop apps
+
+<sub>
+I build practical tools that expose useful system data through clean interfaces,
+native components and transparent telemetry.
+</sub>
+
+</div>
+
+<br />
+
 ◈ Technology Matrix
 
 <div align="center">
 
-Languages
+Primary Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,cs,java,bash,html,css,md&theme=dark&perline=11" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=rust,dart,kotlin,python,bash,c,cpp,java&theme=dark&perline=8" alt="Primary languages" />
 
-Frameworks & Runtime
+Application & Native Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind&theme=dark&perline=6" alt="Frameworks and runtimes" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,cmake&theme=dark&perline=3" alt="Application and native development" />
 
-Infrastructure & Data
+Platforms & Delivery
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,nginx,cloudflare,postgres,sqlite,redis&theme=dark&perline=10" alt="Infrastructure and databases" />
+<img src="https://skillicons.dev/icons?i=windows,linux,docker,git,github,githubactions&theme=dark&perline=6" alt="Platforms and delivery tools" />
 
-Developer Tools
+Data & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,postman&theme=dark&perline=5" alt="Developer tools" />
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,vscode,visualstudio,idea&theme=dark&perline=5" alt="Data and developer tools" />
 
 </div>
+
+<br />
+
+◈ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/googIeuser/NETWatcher">
+  <img width="100%" src="./assets/liquid-netwatcher.svg" alt="NetWatcher project" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/googIeuser/FPSWatcher">
+  <img width="100%" src="./assets/liquid-fpswatcher.svg" alt="FPSWatcher project" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/googIeuser/USBWatcher">
+  <img width="100%" src="./assets/liquid-usbwatcher.svg" alt="USBWatcher project" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/googIeuser/FrameworkPatcher">
+  <img width="100%" src="./assets/liquid-frameworkpatcher.svg" alt="FrameworkPatcher project" />
+</a>
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -65,22 +111,10 @@ Developer Tools
 
 <br />
 
-◈ Featured Project
-
 <div align="center">
 
-<a href="https://github.com/googIeuser/NetWatcher">
-  <img width="96%" src="./assets/liquid-netwatcher.svg" alt="NetWatcher featured project" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/googIeuser">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+<a href="https://github.com/googIeuser?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
 
 <br /><br />
