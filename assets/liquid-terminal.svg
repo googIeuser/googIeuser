@@ -42,7 +42,7 @@
   <text x="68" y="146" fill="#cbd5e1">Musa — Software Developer from Türkiye</text>
 
   <text x="68" y="190" fill="#67e8f9">musa@github:~$ <tspan fill="#f8fafc">cat current_focus.txt</tspan></text>
-  <text x="68" y="223" fill="#cbd5e1">Flutter • Rust • Android telemetry • Windows diagnostics</text>
+  <text x="68" y="223" fill="#cbd5e1">Desktop utilities • Android tools • diagnostics • performance</text>
 
   <text x="68" y="267" fill="#67e8f9">musa@github:~$ <tspan fill="#f8fafc">cat principles.txt</tspan></text>
   <text x="68" y="300" fill="#cbd5e1">Local-first • Honest metrics • Useful interfaces • Open source</text>

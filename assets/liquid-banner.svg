@@ -66,7 +66,7 @@
 <g font-family="Segoe UI,Inter,Arial,sans-serif" text-anchor="middle">
   <text x="600" y="156" fill="#ffffff" font-size="78" font-weight="700" letter-spacing="5" filter="url(#softGlow)">MUSA</text>
   <text x="600" y="204" fill="#dbeafe" font-size="24" font-weight="500" letter-spacing="3">SOFTWARE DEVELOPER</text>
-  <text x="600" y="249" fill="#a5b4fc" font-size="17" letter-spacing="1.5">FLUTTER  •  RUST  •  ANDROID  •  WINDOWS  •  OPEN SOURCE</text>
+  <text x="600" y="249" fill="#a5b4fc" font-size="17" letter-spacing="1.5">SYSTEM TOOLS  •  AUTOMATION  •  OPEN SOURCE</text>
 </g>
 
 <circle cx="122" cy="92" r="5" fill="#67e8f9">

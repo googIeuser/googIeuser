@@ -25,11 +25,11 @@
 
 <div align="center">
 
-**Local-first diagnostics · Performance telemetry · Android tooling · Open-source desktop apps**
+**System utilities · Performance tools · Android projects · Open-source software**
 
 <sub>
-I build practical tools that expose useful system data through clean interfaces,
-native components and transparent telemetry.
+I enjoy turning low-level system information into useful,
+clear and privacy-friendly applications.
 </sub>
 
 </div>

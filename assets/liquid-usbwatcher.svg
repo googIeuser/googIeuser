@@ -42,8 +42,8 @@
   <text x="120" y="82" fill="#67e8f9" font-size="11.5" font-weight="600" letter-spacing="1.1">WINDOWS USB INSPECTOR</text>
   <text x="34" y="127" fill="#cbd5e1" font-size="14.5">Negotiated speed, descriptors, identifiers</text>
   <text x="34" y="151" fill="#cbd5e1" font-size="14.5">and connection paths reported by Windows.</text>
-  <rect x="34" y="186" width="86" height="28" rx="14" fill="#67e8f9" fill-opacity=".12" stroke="#67e8f9" stroke-opacity=".45"/><text x="77.0" y="205" text-anchor="middle" fill="#e2e8f0" font-size="11">FLUTTER</text>
-  <rect x="130" y="186" width="62" height="28" rx="14" fill="#67e8f9" fill-opacity=".12" stroke="#67e8f9" stroke-opacity=".45"/><text x="161.0" y="205" text-anchor="middle" fill="#e2e8f0" font-size="11">RUST</text>
+  <rect x="34" y="186" width="86" height="28" rx="14" fill="#67e8f9" fill-opacity=".12" stroke="#67e8f9" stroke-opacity=".45"/><text x="77.0" y="205" text-anchor="middle" fill="#e2e8f0" font-size="11">HARDWARE</text>
+  <rect x="130" y="186" width="62" height="28" rx="14" fill="#67e8f9" fill-opacity=".12" stroke="#67e8f9" stroke-opacity=".45"/><text x="161.0" y="205" text-anchor="middle" fill="#e2e8f0" font-size="11">USB</text>
   <rect x="202" y="186" width="54" height="28" rx="14" fill="#67e8f9" fill-opacity=".12" stroke="#67e8f9" stroke-opacity=".45"/><text x="229.0" y="205" text-anchor="middle" fill="#e2e8f0" font-size="11">USB</text>
   <text x="486" y="205" text-anchor="end" fill="#94a3b8" font-size="11.5">View repository →</text>
 </g>
