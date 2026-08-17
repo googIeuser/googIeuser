@@ -7,12 +7,17 @@
 <a href="https://github.com/googIeuser?tab=followers">
   <img src="https://img.shields.io/github/followers/googIeuser?style=for-the-badge&logo=github&label=Followers&labelColor=111827&color=7C3AED" alt="GitHub followers" />
 </a>
-<a href="https://github.com/googIeuser?tab=repositories">
-  <img src="https://img.shields.io/github/stars/googIeuser?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&labelColor=111827&color=0891B2" alt="GitHub stars" />
-</a>
 <a href="https://github.com/googIeuser">
   <img src="https://komarev.com/ghpvc/?username=googIeuser&style=for-the-badge&color=F472B6&label=Profile+Views&abbreviated=true" alt="Profile views" />
 </a>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -54,7 +59,9 @@ Always expanding the toolbox — from browser-native binaries to bare-metal prog
 <br />
 
 <details>
-<summary><h2>◈ Technology Matrix</h2></summary>
+<summary><strong>◈ Technology Matrix</strong></summary>
+
+<br />
 
 <div align="center">
 
@@ -137,7 +144,9 @@ Always expanding the toolbox — from browser-native binaries to bare-metal prog
 <br />
 
 <details>
-<summary><h2>◈ GitHub Command Center</h2></summary>
+<summary><strong>◈ GitHub Command Center</strong></summary>
+
+<br />
 
 <div align="center">
 
@@ -156,18 +165,6 @@ Always expanding the toolbox — from browser-native binaries to bare-metal prog
 </div>
 
 </details>
-
-<br />
-
-## ◈ Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake.svg" width="100%" />
-</picture>
-</div>
 
 <br />
 
