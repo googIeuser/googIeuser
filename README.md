@@ -29,39 +29,7 @@
 
 <br />
 
-## ◈ What I Build
-
-<div align="center">
-
-**System utilities · Performance tools · Android projects · Open-source software**
-
-<sub>
-I enjoy turning low-level system information into useful,
-clear and privacy-friendly applications.
-</sub>
-
-</div>
-
-<br />
-
-## ◈ Currently Learning
-
-<div align="center">
-
-🌱 Currently exploring **WebAssembly** & **Embedded Systems**
-
-<sub>
-Always expanding the toolbox — from browser-native binaries to bare-metal programming.
-</sub>
-
-</div>
-
-<br />
-
-<details>
-<summary><strong>◈ Technology Matrix</strong></summary>
-
-<br />
+## ◈ Technology Matrix
 
 <div align="center">
 
@@ -82,8 +50,6 @@ Always expanding the toolbox — from browser-native binaries to bare-metal prog
 <img src="https://skillicons.dev/icons?i=sqlite,postgres,vscode,visualstudio,idea&theme=dark&perline=5" alt="Data and developer tools" />
 
 </div>
-
-</details>
 
 <br />
 
