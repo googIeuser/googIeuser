@@ -1,14 +1,13 @@
 <div align="center">
 
-# Software Developer
+# Hi, I'm Musa
+**Software Developer**
 
 <br>
 
 <h3>
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </h3>
-
-
 
 </div>
 
