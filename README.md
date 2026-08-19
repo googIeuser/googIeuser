@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/pong.gif" width="200px"/>
+
 # Hi, I'm Musa
 **Software Developer**
 
