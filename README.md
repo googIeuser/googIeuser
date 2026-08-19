@@ -1,151 +1,123 @@
 <div align="center">
 
-<img width="100%" src="./assets/liquid-banner.svg" alt="Musa — Software Developer" />
+# ⚡ Hello, I'm Musa
 
-<br />
+**Software Developer | Rust & Flutter Enthusiast | Performance Tools Builder**
 
-<a href="https://github.com/googIeuser?tab=followers">
-  <img src="https://img.shields.io/github/followers/googIeuser?style=for-the-badge&logo=github&label=Followers&labelColor=111827&color=7C3AED" alt="GitHub followers" />
-</a>
-<a href="https://github.com/googIeuser">
-  <img src="https://komarev.com/ghpvc/?username=googIeuser&style=for-the-badge&color=F472B6&label=Profile+Views&abbreviated=true" alt="Profile views" />
-</a>
+<p align="center">
+  <a href="https://github.com/googIeuser">
+    <img src="https://komarev.com/ghpvc/?username=googIeuser&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile views" />
+  </a>
+  <a href="https://github.com/googIeuser?tab=followers">
+    <img src="https://img.shields.io/github/followers/googIeuser?style=flat-square&logo=github&label=Followers&color=8B5CF6" alt="GitHub followers" />
+  </a>
+</p>
 
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+Tools+for+Developers;Native+%26+Cross-Platform+Apps;Deep+dive+into+Systems+Programming" alt="Typing SVG" />
+</p>
 
 </div>
 
-<br />
+---
+
+### 👨‍💻 About Me
+
+I specialize in creating robust applications and diagnostic tools with **Rust**, **Flutter**, and **Kotlin**. I'm passionate about system-level programming, reverse engineering, and finding elegant solutions to complex performance bottlenecks.
+
+- 🔭 **Currently working on:** Real-time network diagnostics and Android telemetry tools.
+- 🌱 **Learning & Exploring:** Advanced Systems Programming and Low-Level Optimizations.
+- 💬 **Ask me about:** `Rust`, `Dart/Flutter`, `Android Internals`, and `Reverse Engineering`.
+
+---
+
+### 🚀 Featured Projects
 
 <div align="center">
-  <img width="96%" src="./assets/liquid-terminal.svg" alt="Musa developer terminal" />
+  <a href="https://github.com/googIeuser/NETWatcher">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=NETWatcher&theme=dark&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0d1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=NETWatcher&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=NETWatcher&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" width="48%" />
+    </picture>
+  </a>
+  <a href="https://github.com/googIeuser/FPSWatcher">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=FPSWatcher&theme=dark&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0d1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=FPSWatcher&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=FPSWatcher&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" width="48%" />
+    </picture>
+  </a>
+  <br>
+  <a href="https://github.com/googIeuser/USBWatcher">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=USBWatcher&theme=dark&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0d1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=USBWatcher&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=USBWatcher&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" width="48%" />
+    </picture>
+  </a>
+  <a href="https://github.com/googIeuser/FrameworkPatcher">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=FrameworkPatcher&theme=dark&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0d1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=FrameworkPatcher&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=googIeuser&repo=FrameworkPatcher&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" width="48%" />
+    </picture>
+  </a>
 </div>
 
-<br />
+---
 
-## ◈ Technology Matrix
+### 🛠️ Tech Stack
 
 <div align="center">
-
-### Primary Languages
-
-<img src="https://skillicons.dev/icons?i=rust,dart,kotlin,python,bash,c,cpp,java&theme=dark&perline=8" alt="Primary languages" />
-
-### Application & Native Development
-
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,cmake&theme=dark&perline=3" alt="Application and native development" />
-
-### Platforms & Delivery
-
-<img src="https://skillicons.dev/icons?i=windows,linux,docker,git,github,githubactions&theme=dark&perline=6" alt="Platforms and delivery tools" />
-
-### Data & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,vscode,visualstudio,idea&theme=dark&perline=5" alt="Data and developer tools" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,dart,kotlin,c,cpp,python,bash&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,dart,kotlin,c,cpp,python,bash&theme=light" />
+    <img src="https://skillicons.dev/icons?i=rust,dart,kotlin,c,cpp,python,bash&theme=dark" alt="Core Languages" title="Core Languages" />
+  </picture>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,androidstudio,windows,linux,docker,git&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,androidstudio,windows,linux,docker,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,windows,linux,docker,git&theme=dark" alt="Frameworks & Platforms" title="Frameworks & Platforms" />
+  </picture>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sqlite,postgres,cmake,githubactions,vscode&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite,postgres,cmake,githubactions,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,cmake,githubactions,vscode&theme=dark" alt="Tools & DBs" title="Tools & DBs" />
+  </picture>
 </div>
 
-<br />
+---
 
-## ◈ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/googIeuser/NETWatcher">
-  <img width="100%" src="./assets/liquid-netwatcher.svg" alt="NetWatcher project" />
-</a>
-<p align="center">
-<sub><b>Real-time network diagnostics & traffic analysis tool</b></sub>
-<br />
-<img src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=67E8F9" />
-</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/googIeuser/FPSWatcher">
-  <img width="100%" src="./assets/liquid-fpswatcher.svg" alt="FPSWatcher project" />
-</a>
-<p align="center">
-<sub><b>Android game telemetry & performance profiler with Rust core</b></sub>
-<br />
-<img src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=A78BFA" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/googIeuser/USBWatcher">
-  <img width="100%" src="./assets/liquid-usbwatcher.svg" alt="USBWatcher project" />
-</a>
-<p align="center">
-<sub><b>Windows USB device inspector — speed, class & connection analysis</b></sub>
-<br />
-<img src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=67E8F9" />
-</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/googIeuser/FrameworkPatcher">
-  <img width="100%" src="./assets/liquid-frameworkpatcher.svg" alt="FrameworkPatcher project" />
-</a>
-<p align="center">
-<sub><b>Automated workflow to patch Android hyper frameworks</b></sub>
-<br />
-<img src="https://img.shields.io/badge/Shell-111827?style=flat-square&logo=gnubash&logoColor=4ADE80" />
-<img src="https://img.shields.io/badge/Smali-111827?style=flat-square&logo=android&logoColor=A78BFA" />
-</p>
-</td>
-</tr>
-</table>
-
-<br />
-
-<details>
-<summary><strong>◈ GitHub Command Center</strong></summary>
-
-<br />
+### 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="185" src="https://github-readme-stats-musa24.vercel.app/api?username=googIeuser&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&bg_color=0D1117&title_color=67E8F9&icon_color=F472B6&text_color=F8FAFC&ring_color=A78BFA" alt="GitHub statistics" />
-
-<img height="185" src="https://github-readme-stats-musa24.vercel.app/api/top-langs/?username=googIeuser&layout=compact&langs_count=8&hide_border=true&border_radius=18&bg_color=0D1117&title_color=F472B6&text_color=F8FAFC" alt="Most used languages" />
-
-<br /><br />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=googIeuser&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FB7185&area=true&area_color=7C3AED&hide_border=true&radius=18" alt="Contribution activity graph" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=googIeuser&hide_border=true&border_radius=18&background=0D1117&ring=A78BFA&fire=FB7185&currStreakLabel=22D3EE&sideLabels=F472B6&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=googIeuser&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=googIeuser&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" />
+    <img src="https://github-readme-stats.vercel.app/api?username=googIeuser&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=googIeuser&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=8B5CF6&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=googIeuser&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=8B5CF6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=googIeuser&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=8B5CF6" width="48%" />
+  </picture>
 </div>
 
-</details>
-
-<br />
+<br>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/googIeuser/googIeuser/output/github-snake.svg" width="85%" />
+  </picture>
+</div>
 
-<a href="https://github.com/googIeuser?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
+---
 
-<br /><br />
-
-<sub>⚡ <i>"First, solve the problem. Then, write the code."</i> — John Johnson</sub>
-
-<br /><br />
-
-<img width="100%" src="./assets/liquid-footer.svg" alt="Liquid glass footer" />
-
+<div align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </div>
