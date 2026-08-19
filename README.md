@@ -8,17 +8,7 @@
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </h3>
 
-<br>
 
-<p align="center">
-  <a href="https://github.com/googIeuser">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/profile?username=googIeuser&data=followers,repositories,stars,commits&theme=darkmode" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-widgetbox.vercel.app/api/profile?username=googIeuser&data=followers,repositories,stars,commits" />
-      <img src="https://github-widgetbox.vercel.app/api/profile?username=googIeuser&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
-    </picture>
-  </a>
-</p>
 
 </div>
 
