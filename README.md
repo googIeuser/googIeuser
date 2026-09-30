@@ -1,7 +1,7 @@
 <img src="./assets/profile-header.svg" alt="Musa — Software Developer. Desktop utilities, Android tools and automation." width="100%" />
 
 I build tools that make systems easier to inspect, understand and work with.
-My projects focus on Windows desktop utilities and Android performance monitoring, with **Flutter** interfaces and **Rust** cores.
+My projects focus on Windows desktop utilities and Android performance monitoring.
 
 [Explore my repositories →](https://github.com/googIeuser?tab=repositories)
 
