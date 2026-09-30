@@ -1,7 +1,7 @@
 <img src="./assets/profile-header.svg" alt="Musa — Software Developer. Desktop utilities, Android tools and automation." width="100%" />
 
 I build tools that make systems easier to inspect, understand and work with.
-My projects span Windows desktop utilities, Android performance monitoring and framework automation, with **Flutter** interfaces and **Rust** cores.
+My projects focus on Windows desktop utilities and Android performance monitoring, with **Flutter** interfaces and **Rust** cores.
 
 [Explore my repositories →](https://github.com/googIeuser?tab=repositories)
 
@@ -12,7 +12,6 @@ My projects span Windows desktop utilities, Android performance monitoring and f
 | [**NETWatcher**](https://github.com/googIeuser/NETWatcher) | Windows connection monitoring: latency, jitter and packet loss. | Flutter · Rust |
 | [**USBWatcher**](https://github.com/googIeuser/USBWatcher) | Inspects USB devices, negotiated speeds, identifiers and port paths on Windows. | Flutter · Rust |
 | [**FPSWatcher**](https://github.com/googIeuser/FPSWatcher) | Android game telemetry and performance profiling. | Flutter · Rust |
-| [**FrameworkPatcher**](https://github.com/googIeuser/FrameworkPatcher) | Automated patching workflows for Android frameworks. | Shell · Smali |
 
 ## Technologies
 
