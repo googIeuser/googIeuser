@@ -13,6 +13,13 @@ My projects focus on Windows desktop utilities and Android performance monitorin
 | [**USBWatcher**](https://github.com/googIeuser/USBWatcher) | Inspects USB devices, negotiated speeds, identifiers and port paths on Windows. | Flutter · Rust |
 | [**FPSWatcher**](https://github.com/googIeuser/FPSWatcher) | Android game telemetry and performance profiling. | Flutter · Rust |
 
+## Private projects
+
+| Project | Stack |
+| :--- | :--- |
+| **ZappDM** | C# |
+| **SubAI** | TypeScript |
+
 ## Technologies
 
 **Core stack**
