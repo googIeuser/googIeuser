@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Musa — Software Developer</title>
-  <desc id="desc">Desktop utilities, Android tools and automation.</desc>
+  <desc id="desc">Utilities.</desc>
   <rect x="1" y="1" width="1198" height="278" rx="16" fill="#0d1117" stroke="#30363d" />
   <path d="M56 62h40" stroke="#79c0ff" stroke-width="4" stroke-linecap="round" />
   <g font-family="Segoe UI, Arial, sans-serif">
     <text x="56" y="141" fill="#f0f6fc" font-size="64" font-weight="600" letter-spacing="-2">Musa<tspan fill="#79c0ff">.</tspan></text>
     <text x="58" y="184" fill="#c9d1d9" font-size="25">Software Developer</text>
-    <text x="58" y="228" fill="#8b949e" font-size="19">Desktop utilities · Android tools · Automation</text>
+    <text x="58" y="228" fill="#8b949e" font-size="19">Utilities</text>
   </g>
   <g fill="none" stroke="#30363d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M1004 97l-42 43 42 43M1090 97l42 43-42 43" />

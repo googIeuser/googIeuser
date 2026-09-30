@@ -1,7 +1,6 @@
-<img src="./assets/profile-header.svg" alt="Musa — Software Developer. Desktop utilities, Android tools and automation." width="100%" />
+<img src="./assets/profile-header.svg" alt="Musa — Software Developer. Utilities." width="100%" />
 
-I build tools that make systems easier to inspect, understand and work with.
-My projects focus on Windows desktop utilities and Android performance monitoring.
+I build utilities.
 
 [Explore my repositories →](https://github.com/googIeuser?tab=repositories)
 
@@ -9,9 +8,9 @@ My projects focus on Windows desktop utilities and Android performance monitorin
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**NETWatcher**](https://github.com/googIeuser/NETWatcher) | Windows connection monitoring: latency, jitter and packet loss. | Flutter · Rust |
-| [**USBWatcher**](https://github.com/googIeuser/USBWatcher) | Inspects USB devices, negotiated speeds, identifiers and port paths on Windows. | Flutter · Rust |
-| [**FPSWatcher**](https://github.com/googIeuser/FPSWatcher) | Android game telemetry and performance profiling. | Flutter · Rust |
+| [**NETWatcher**](https://github.com/googIeuser/NETWatcher) | Connection monitoring: latency, jitter and packet loss. | Flutter · Rust |
+| [**USBWatcher**](https://github.com/googIeuser/USBWatcher) | Inspects USB devices, negotiated speeds, identifiers and port paths. | Flutter · Rust |
+| [**FPSWatcher**](https://github.com/googIeuser/FPSWatcher) | Game telemetry and performance profiling. | Flutter · Rust |
 
 ## Closed-source projects
 
