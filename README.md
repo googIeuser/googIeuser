@@ -21,7 +21,6 @@ I build utilities.
 | :--- | :--- | :--- |
 | **ZappDM** | C# | [Releases](https://github.com/googIeuser/ZappDM-releases/releases) |
 | **Portfolio** | React · Vite | [musa.wtf](https://musa.wtf) |
-| **SubAI** | TypeScript | — |
 
 ## Technologies
 
